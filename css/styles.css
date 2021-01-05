@@ -1,0 +1,38 @@
+body {
+  background-color: tan;
+  margin: 0px 50px 0px 50px;
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+}
+
+p {
+  font-size: large;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.yoga-positions, .activities {
+  font-style: italic;
+  font-weight: bold;
+  color: green;
+}
+
+#epicodus {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description {
+  color: darkblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 20px;
+}
+
+.resort-img {
+  height: 300px;
+  border: 2px solid teal;
+}
