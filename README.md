@@ -1,6 +1,6 @@
 # _Private Resort_
 
-#### _Basic HTML Pages catered to advertise a reort using vanilla CSS._
+#### _Basic HTML Pages catered to advertise a resort using vanilla CSS._
 
 ##### _Co-Author_
 - _Connor Burgess_
