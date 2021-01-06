@@ -2,7 +2,9 @@
 
 #### _Basic HTML Pages catered to advertise a reort using vanilla CSS._
 
-#### By _**Nick Lindau <NickyLind@github.com>**_
+##### _Co-Author_
+- _Connor Burgess_
+- _Nick Lindau_
 
 ## Technologies Used
 
